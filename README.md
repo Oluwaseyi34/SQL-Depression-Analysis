@@ -1,5 +1,18 @@
 # Uncovering the Hidden Links: Depression, Lifestyle, and Socioeconomic Realities in a Public Health Dataset Using SQL
 
+## Table of Content
+- [Project Overview](project-overview)
+- [Data Source](data-source)
+- [Tools](tools)
+- [Data Cleaning](data-cleaning)
+- [Exploratory Data Analysis](exploratory-data-analysis-(eda))
+- [Queries](queries)
+- [Key Findings](key-findings)
+- [Conclusion](conclusion)
+- [Recommendation](recommendation)
+- [Limitations](limitations)
+- [Future Work](future-work)
+  
 ### Project Overview
 Depression is a pervasive mental health condition that affects millions of individuals worldwide, with significant implications for both physical health and quality of life. According to the World Health Organization (WHO), depression is among the leading causes of disability globally, with its roots often intertwined with socioeconomic disparities, lifestyle behaviors, and chronic medical conditions.
 
@@ -757,28 +770,22 @@ Overall, the findings emphasize the importance of multi-layered public health in
 
 ### Recommendations
 To effectively address the multifaceted health challenges identified, targeted interventions should be designed considering demographic, socioeconomic, and lifestyle factors.
-Health promotion strategies should prioritize younger adults (18–27 years) who unexpectedly exhibit a high prevalence of chronic conditions. These programs should focus on lifestyle modification, early detection, and management of chronic diseases through community outreach and digital health education, especially targeting age-specific risks.
-To address the higher prevalence of chronic conditions among females, gender-responsive healthcare policies should be developed. These could include routine screenings, mental health support, and lifestyle counseling tailored to women’s health needs, particularly focusing on the mid-to-late adulthood phase where risks increase.
-Employment-focused health programs should address the higher rates of smoking and alcohol consumption among employed individuals. Workplace wellness initiatives should include smoking cessation support, stress management workshops, and healthier food options at the workplace. Simultaneously, unemployed individuals require accessible community-based health programs that offer smoking cessation resources, nutrition counseling, and stress management support, regardless of their economic status.
-Income disparities impacting physical activity levels suggest the need for subsidized or free access to recreational facilities and structured exercise programs for low-income communities. Additionally, nutrition assistance programs should focus on improving access to affordable, healthy food options, particularly for low-income households that are more likely to consume unhealthy diets.
-Educational initiatives are essential in promoting health literacy, particularly among individuals with low formal education. Community health workshops focusing on smoking cessation, healthy eating, and mental well-being should be tailored to this group, using simple, culturally relevant messaging.
-Mental health interventions should particularly target individuals with a family history of depression who are prone to unhealthy diets and sedentary behavior. Integrated health programs that combine physical activity promotion, dietary counseling, and mental health support can help mitigate the compounded risk factors faced by this group.
-For the high-risk population identified through the lifestyle risk profiling, a multi-pronged approach is needed. These individuals would benefit from comprehensive lifestyle intervention programs that address smoking, alcohol consumption, poor dietary habits, and physical inactivity simultaneously. Regular follow-ups and personalized support plans can help sustain positive changes over time.
-Lastly, public health policies should address the socioeconomic determinants of health by reducing financial barriers to healthcare access, promoting workplace wellness, and providing education on preventive health practices. Empowering individuals through education, accessible healthcare, and community support systems is essential for reducing the overall burden of chronic conditions and improving mental health outcomes.
-
+- Health promotion strategies should prioritize younger adults (18–27 years) who unexpectedly exhibit a high prevalence of chronic conditions. These programs should focus on lifestyle modification, early detection, and management of chronic diseases through community outreach and digital health education, especially targeting age-specific risks.
+- To address the higher prevalence of chronic conditions among females, gender-responsive healthcare policies should be developed. These could include routine screenings, mental health support, and lifestyle counseling tailored to women’s health needs, particularly focusing on the mid-to-late adulthood phase where risks increase.
+- Employment-focused health programs should address the higher rates of smoking and alcohol consumption among employed individuals. Workplace wellness initiatives should include smoking cessation support, stress management workshops, and healthier food options at the workplace. Simultaneously, unemployed individuals require accessible community-based health programs that offer smoking cessation resources, nutrition counseling, and stress management support, regardless of their economic status.
+- For the high-risk population identified through the lifestyle risk profiling, a multi-pronged approach is needed. These individuals would benefit from comprehensive lifestyle intervention programs that address smoking, alcohol consumption, poor dietary habits, and physical inactivity simultaneously. 
+- Lastly, public health policies should address the socioeconomic determinants of health by reducing financial barriers to healthcare access, promoting workplace wellness, and providing education on preventive health practices. Empowering individuals through education, accessible healthcare, and community support systems is essential for reducing the overall burden of chronic conditions and improving mental health outcomes.
 
 
 ### Limitations 
-Self-reported Data Bias: The reliance on self-reported data for lifestyle behaviors introduces risks of recall bias and social desirability bias.
+**Self-reported Data Bias:** The reliance on self-reported data for lifestyle behaviors introduces risks of recall bias and social desirability bias.
 
-Cross-Sectional Analysis: The data is cross-sectional, which limits the ability to infer causal relationships.
+**Cross-Sectional Analysis:** The data is cross-sectional, which limits the ability to infer causal relationships.
 
-Synthetic Dataset: As the dataset is synthetic, it may not fully capture real-world complexities, although it provides a structured environment for hypothesis testing.
+**Synthetic Dataset:** As the dataset is synthetic, it may not fully capture real-world complexities, although it provides a structured environment for hypothesis testing.
 
 ### Future Work
 
-Integrating predictive models using machine learning to enhance the accuracy of risk profiling.
+- Integrating predictive models using machine learning to enhance the accuracy of risk profiling.
 
-Extending the analysis to real-world datasets for validation and broader applicability.
-
-Incorporating data visualization techniques to better communicate findings and engage stakeholders.
+- Incorporating data visualization techniques to better communicate findings and engage stakeholders.
