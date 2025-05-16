@@ -1,17 +1,17 @@
 # Uncovering the Hidden Links: Depression, Lifestyle, and Socioeconomic Realities in a Public Health Dataset Using SQL
 
 ## Table of Content
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Data Cleaning](data-cleaning)
-- [Exploratory Data Analysis](exploratory-data-analysis-(eda))
-- [Queries](queries)
-- [Key Findings](key-findings)
-- [Conclusion](conclusion)
-- [Recommendation](recommendation)
-- [Limitations](limitations)
-- [Future Work](future-work)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis-(eda))
+- [Queries](#queries)
+- [Key Findings](#key-findings)
+- [Conclusion](#conclusion)
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+- [Future Work](#future-work)
   
 ### Project Overview
 Depression is a pervasive mental health condition that affects millions of individuals worldwide, with significant implications for both physical health and quality of life. According to the World Health Organization (WHO), depression is among the leading causes of disability globally, with its roots often intertwined with socioeconomic disparities, lifestyle behaviors, and chronic medical conditions.
